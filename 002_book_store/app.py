@@ -1,4 +1,4 @@
-import my_database
+import utils.my_database as my_database
 
 WELCOME_TEXT= """Welcome to the Book Store!
 Here we provide all kinds of books just tell us how can we help you!
