@@ -24,7 +24,7 @@ def list_all_books():
     books= my_database.get_all_books()
     if len(books)!= 0:
         for book in books:
-            print(book)
+            print(f"{book['title']} by {book['author']} read: {bool(book['pdh_li'])}")
     else:
         print("no books in the store! sorry")
 
@@ -44,13 +44,14 @@ method_set= {
 }
 
 def menu():
+    my_database.create_table()
     print(WELCOME_TEXT)
     print(MENU_TEXT)
     user_input= input("Please enter your choice: ")
     while user_input != 'q':
         try:
             method_set[user_input]()
-        except:
+        except KeyError:
             print("please enter a valid input")
         print(MENU_TEXT)
         user_input= input("please enter your choice: ")
