@@ -11,7 +11,10 @@ def create_table():
 def add_book(title, author):
     connection= sqlite3.connect("data.db")
     cursor= connection.cursor()
-    cursor.execute('INSERT INTO books VALUES(?,?,0)', (title,author))
+    
+    cursor.execute("INSERT INTO books VALUES(?,?,0)", (title, author))
+    
+    
     connection.commit()
     connection.close()
 
