@@ -1,15 +1,19 @@
-from scraper import search
-from parser.page_parser import get_article_links
+from article_fetcher import fetch_articles
+from file_writer import save_articles_to_file
 
 
-search_term = input("Enter search term: ")
-html = search(search_term)
-
-if html:
-    links = get_article_links(html)
+def main():
+    search_term = input("Enter search term: ")
     
-    print(f"\nFound {len(links)} articles:\n")
-    for  index, link in enumerate(links):
-        print(index,":", link,"\n")
-else:
-    print("Failed to fetch data")
+    articles = fetch_articles(search_term)
+    
+    if not articles:
+        print("Failed to fetch search results")
+        return
+    
+    filename = save_articles_to_file(search_term, articles)
+    print(f"\n✓ Successfully saved {len(articles)} articles to: {filename}")
+
+
+if __name__ == "__main__":
+    main()

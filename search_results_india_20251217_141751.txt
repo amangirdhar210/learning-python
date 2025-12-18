@@ -1,0 +1,268 @@
+================================================================================
+SEARCH RESULTS FOR: INDIA
+Date: December 17, 2025 at 02:17 PM
+Total Articles: 7
+================================================================================
+
+ARTICLE 1
+--------------------------------------------------------------------------------
+URL: https://techcrunch.com/2025/08/29/billionaire-ambani-taps-google-meta-to-build-indias-ai-backbone/
+--------------------------------------------------------------------------------
+Mukesh Ambani, India’s richest man and chairman of Reliance Industries, has unveiled an ambitious plan to build the country’s AI backbone through a new subsidiary — starting with strategic partnerships with Google Cloud and Meta.
+
+At the company’s 48th annual general meeting on Friday, Ambani launched a new venture called Reliance Intelligence, a subsidiary of Reliance Industries. The new venture aims to create a national-scale AI infrastructure, including enterprise tools and services for a variety of sectors. The move comes as India looks to catch up in the global AI race long dominated by the U.S. and China.
+
+“Reliance Intelligence will create a home for world-class researchers, engineers, designers, and product builders, combining the speed of research with the rigor of engineering,” Ambani said in his keynote, “so that ideas become innovations and applications, providing solutions to India and the world.”
+
+To kick things off, Reliance has partnered with Google —one of its major tech partners— to build a dedicated AI cloud infrastructure in India. The network will start with a major data center in Jamnagar, a city in the western state of Gujarat.
+
+The dedicated cloud region will enable Reliance to offer AI-focused services to businesses of all sizes, developers, and government bodies, utilizing Jio’s network and its own energy assets to support large-scale deployments, the companies said in their joint statement.
+
+“As Reliance’s largest public cloud partner, Google Cloud is not only powering the company’s mission-critical workloads, but we are also innovating with you on advanced AI initiatives,” Google CEO Sundar Pichai said in a video message during the company’s virtual AGM. “This is only the beginning.”
+
+Google did not immediately respond to a query about the financial terms of the partnership.
+
+Reliance has also announced a joint venture with Meta, another of its major tech investors, to build and scale enterprise AI solutions for customers in India and select international markets. Under the agreement, Reliance and Meta have committed a combined investment of ₹8.55 billion (approximately $100 million) under a 70/30 ownership split, respectively.
+
+The partnership will offer Meta’s Llama-based enterprise AI platform-as-a-service, allowing businesses to customize, deploy, and manage generative AI models for use cases across sales, marketing, IT, customer service, and finance. The joint venture will also provide a suite of pre-configured AI solutions, the companies said.
+
+Reliance’s collaboration comes just weeks after Meta restructured its AI ventures intoa new Superintelligence Labs, fueled by an expensive string of top AI hires. (Meta isreportedly pausing the hiring spreeafter concern from shareholders.)
+
+“Through this joint venture, we’re putting Meta’s Llama models into real-world use,” Meta CEO Mark Zuckerberg said in a prepared statement.
+
+The transaction is subject to customary regulatory approvals and is expected to close in the fourth quarter of 2025.
+
+Reliance is planning to expand beyond India and take its flagship subsidiary Reliance Jio Platforms to international markets, Ambani said. Ambani also revealed that Jio aims to file for an initial public offering in the first half of 2026, followingmuch anticipation and initial delays.
+
+Reliance is alsoreportedly eyeing a partnership with OpenAI, which recently introduced itssub-$5 ChatGPT subscriptionin India and announced its plans toset up an office in New Delhi later this year. The details of the partnership are likely to be announced during Sam Altman’s upcoming visit to India next month, two people familiar with the matter told TechCrunch.
+
+Reliance and OpenAI did not immediately respond to a request for comment.
+
+Earlier this year, Reliance’s arch-rival Bharti Airtel, the country’s second-largest telco after Jio,partnered with Perplexityto offer more than 360 million Airtel subscribers access to Perplexity Pro for 12 months.
+
+Reliance hasalready partnered with Microsoftto offer its Azure cloud platform to Indian enterprises. The company also offers JioAICloud, a consumer-focused service that provides 100GB of free storage. The consumer cloud service has been used by 40 million users and is updated with voice search support and an AI Create Hub to turn photos into AI-powered reels, collages, and promo videos, the company announced at its annual general meeting.
+
+Reliance also showcased its AI-based smart glasses, JioFrames, as its answer to Snap’s Spectacles and Ray-Ban Meta glasses. Similarly, the company is integrating AI into its streaming platform, JioHotstar, which has attracted over 600 million users and 300 million paying subscribers in the three months since its launch in February.
+
+The new AI features include “Riya” voice assistant and content translation into Indian languages using AI-voice cloning and lip-syncing tech.
+
+================================================================================
+
+ARTICLE 2
+--------------------------------------------------------------------------------
+URL: https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/
+--------------------------------------------------------------------------------
+Eight U.S. and Indian venture capital and private equity firms — including storied investors Accel, Blume Ventures, Celesta Capital, and Premji Invest — have formed an unusual coalition to back India’s deep tech startups, pledging more than $1 billion over the next decade to strengthen U.S.-India tech ties.
+
+The alliance addresses longstanding funding concerns. In April, Indian Commerce Minister Piyush Goyaldrew criticism after slamming domestic startupsfor focusing on food delivery instead of innovation, contrasting them with Chinese firms in a presentation titled “India vs. China: The Startup Reality Check.” Several investors and founderscounteredthat India lacks capital for deep tech ventures and said Goyal’s commentsoverlooked the determinationof founders building for the local market. The new alliance appears to address these concerns, aiming to channel long-term private capital into deep tech ventures that many founders say have struggled to secure funding in India.
+
+The move stands out because investors typically compete for deals rather than formally band together under a named alliance with binding pledges. While VCs often co-invest on a deal-by-deal basis, most cross-border collaboration occurs informally through individual fund strategies, rather than through coordinated capital blocs.
+
+Called the India Deep Tech Investment Alliance, the group brings together Celesta Capital, Accel, Blume Ventures, Gaja Capital, Ideaspring Capital, Premji Invest, Tenacity Ventures, and Venture Catalysts, the firms said in a joint statement on Tuesday. The launch follows the Indian government’sapprovalof a ₹1 trillion (approximately $11 billion) Research, Development, and Innovation (RDI) scheme, announced in the national budget earlier this year to boost deep tech R&D.
+
+Under the alliance, each member will commit private capital over a five- to 10-year period to Indian-domiciled deep tech startups, the firms said. For now, there are relatively few such companies, as many of India’s best-known deep tech ventures with Indian founders are incorporated in the U.S. But New Delhi has made local incorporation a requirement for incentives under its new RDI scheme, which the alliance members aim to leverage.
+
+In addition to funding, the members will offer mentorship and network access. The firms also plan to utilize the alliance to help their portfolio companies expand into the Indian market.
+
+“This is in line with the strategic interests of both India and the U.S. at the governmental level, focusing on critical and emerging technologies,” said Celesta Capital managing partner Arun Kumar, who will be the inaugural chair of the alliance, in an interview.
+
+Still, the geopolitical backdrop is complicated. In February, President Donald Trump and Prime Minister Narendra Modilaunched the TRUST(Transforming the Relationship Utilizing Strategic Technology) initiative to deepen U.S.-India tech ties. But relations soon showed strain, as Trumpimposed a 50% tariff on Indian goodslast month over New Delhi’s continued purchases of Russian oil, a move analysts say hasput the two leaders on opposite sidesof a widening trade and geopolitical rift.
+
+Despite those tensions, the alliance — notwithstanding the geopolitical rift between the two leaders — is betting on India as a hub for startups developing foundational technologies such as AI, semiconductors, space, quantum, robotics, biotech, energy, and climate tech.
+
+“We find India as a particularly interesting market, not just for the opportunities that exist for new companies that get started in India, but also for companies in the U.S. that are seeking to expand into the Indian market,” Sriram Viswanathan, founding managing partner at Celesta Capital, told TechCrunch.
+
+Celesta Capital — an early backer of Indian startups such as space-tech ventureAgnikul, drone makerIdeaForge, and AI-driven cancer diagnostics firmOneCell Diagnostics— spearheaded the effort after discussions with industry stakeholders and the Indian government.
+
+“We have put this thing together to actually energize the ecosystem and bring like-minded investors together,” Viswanathan said.
+
+The alliance will focus on early-stage startups — from seed to Series B — while steering clear of late-stage investments, Viswanathan noted. He also stated that the billion-dollar-plus commitment is just the beginning, as “any long journey starts with the first step.”
+
+“You could expect more firms to join this alliance, both financial VC firms and private equity firms,” he said. “You should also expect corporates to join who have pretty significant investment programs.”
+
+While the alliance does not set its own eligibility criteria for new members, Viswanathan said participants must meet the Indian government’s conditions under the RDI scheme — including investing in“sunrise” sectors, backing India-domiciled startups, and securing local regulatory approvals.
+
+“The alliance is just a platform for engaging with the government,” he told TechCrunch.
+
+As a group, the investors in the alliance plan to engage with the Indian government on policy and incentives to advance private industry’s interests and act as a unified voice, Viswanathan said.
+
+In the past, regulatory changes rolled out without industry input haveled to turmoilin India. Some such moves have drawn intense criticism from U.S. investors and weresubsequently withdrawnfollowing widespread outrage.
+
+The alliance’s members will share information voluntarily and coordinate on pipeline development, due diligence, and co-investment opportunities, the firms said.
+
+An advisory committee, comprising representatives from Accel, Premji Invest, and Venture Catalysts, among the early participants, will help establish shared objectives and ensure coordination while preserving the independence of each fund.
+
+Kumar stated that while he is the inaugural chair, the alliance’s leadership will rotate as it moves forward.
+
+The alliance could prove a double-edged sword for Indian deep tech startups. While pooling long-term capital and giving a unified voice to the government appears to be a boon, there is risk if coordination falters, leaving promising companies caught in the gaps.
+
+“Over the next decade, startups will build in India and export breakthrough solutions to the world. The tailwinds are in place: ambition, talent, policy intent, and patient capital,” said Accel partner Anand Daniel in a prepared statement.
+
+================================================================================
+
+ARTICLE 3
+--------------------------------------------------------------------------------
+URL: https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/
+--------------------------------------------------------------------------------
+India’s appetite for instant convenience — once confined to food and grocery delivery — is expanding into house help. That shift has helped Snabbit, an on-demand home-help startup, secure $30 million in new funding and lift its valuation to $180 million, up from$80 millionfive months ago.
+
+The all-equity Series C round — Snabbit’s third fundraise in nine months — was led by Bertelsmann India Investments, with participation from existing backers Lightspeed, Elevation Capital, and Nexus Venture Partners. The latest infusion brings the startup’s total funding to $55 million.
+
+Snabbit’s fresh funding follows a sharp rise in activity, with the Bengaluru-based startup growing from about 1,000 jobs a day in May to more than 10,000 daily bookings. The company crossed 300,000 total orders in October, founder and CEO Aayush Agarwal said in an interview with TechCrunch.
+
+Founded in 2024, Snabbit offers a range of on-demand home services for urban households, including cleaning, dishwashing, laundry, and kitchen prep through a 100% women-led fleet of 5,000 experts. The startup operates through a hyperlocal network of trained workers stationed around dense residential clusters, promising service within 10 minutes.
+
+Currently, Snabbit serves 40 micro markets across five major cities, namely Mumbai, Bengaluru, Gurugram, Noida, and Pune. It plans to expand its presence in these cities and enter Hyderabad, Chennai, Delhi, and Calcutta very soon, Agarwal told TechCrunch.
+
+Snabbit has served more than 300,000 customers, up from 25,000 in May, and expects to add another 100,000 as early as next month. Most of its users are between 30 and 40 years old, including bachelors and working professionals.
+
+Some of Snabbit’s customers are those who do not want full-time house help but prefer an ad hoc solution. “We’re basically taking inefficiency in the model and plugging that, rather than saying, ‘Hey, this was happening offline, and now we’ll do it online,’” said Agarwal.
+
+The startup reports a 30% to 35% retention rate and projects to reach annual recurring revenue of $11 million this month. Moreover, it has a customer acquisition cost of “well below” ₹500 (roughly $6), Agarwal told TechCrunch.
+
+Snabbit’s services are priced at around ₹150 (about $2) per hour, with an average ticket size of around ₹240 (roughly $3).
+
+Workers on the platform earn between ₹25,000 and ₹30,000 (approximately $284 to $340) a month, depending on the hours they work. The startup has also reduced the average walking distance for its workers between two jobs from 300 meters to 250 meters, giving them more time to serve customers.
+
+Snabbit is not alone in the race to offer quick, on-demand home services in India. Urban Company pioneered the trend and was later followed by startups such asBroomeesandPronto. Urban Company now plans todouble down on instant home servicesto stay ahead of rising competition, though Snabbit says it does not see that as a challenge.
+
+“In a hyper-local business, you don’t win pan India, you don’t win cities, you win micro markets. And today, out of the micro markets where we both [Snabbit and Urban Company] are present, Snabbit is leading in more micro markets because we have taken a very positive strategy to build depth as opposed to build breadth,” Agarwal said.
+
+The new funding will help Snabbit strengthen its presence and expand into high-frequency categories such as cooking, child care, and elder care.
+
+================================================================================
+
+ARTICLE 4
+--------------------------------------------------------------------------------
+URL: https://techcrunch.com/2025/09/01/indias-offgrid-raises-15m-to-make-lithium-optional-for-battery-storage/
+--------------------------------------------------------------------------------
+Lithium has become the default choice for battery-powered systems, but its limitations — from volatile supply chains to short lifespans — are becoming increasingly difficult to ignore.Offgrid Energy Labs, a deep-tech startup based in India, wants to make lithium less central, especially when it comes to battery storage.
+
+The 7-year-old startup, incubated at IIT Kanpur, has developed a proprietary zinc-bromine-based battery system as an alternative to lithium-ion technology. Called ZincGel, it delivers 80-90% of the energy efficiency of conventional lithium batteries, but at a significantly lower levelized cost of storage, the startup said.
+
+As power demand grows worldwide, countries are ramping up efforts to expand renewable energy storage. India, as a prominent nation in this regard, aims to increase its non-fossil energy capacity tenfold — from 50 gigawatts to500 gigawatts— by 2030. New Delhi is alsotargeting 236 gigawatt-hoursof battery energy storage capacity by 2031-32 and announced a ₹54 billion (roughly $612 million) funding plan in June to develop 30 gigawatt-hour battery storage systems in the country. However, like many global markets, India faces a key challenge: China’s dominance over the lithium supply chain.
+
+Offgrid Energy Labs is betting that its ZincGel battery technology can ease supply constraints by using widely available materials and offering a more cost-effective alternative to lithium-based systems.
+
+Now, the startup has raised $15 million in Series A funding to scale up its operations. It plans to build a 10-megawatt-hour demonstration facility in the U.K., expected to be ready by the first quarter of 2026, and begin commercializing ZincGel in the quarters that follow — with a gigafactory in India planned as the next phase.
+
+“Not only should we be addressing a gap in the market from an application standpoint, but we should also make it financially viable, because there have been technologies and batteries in the past globally, which have the solution, but they’re so expensive that they’re not widely adopted,” said Tejas Kusurkar, co-founder and CEO of Offgrid Energy Labs, in an interview.
+
+Kusurkar, who has a PhD from IIT Kanpur, co-founded Offgrid Energy Labs in 2018 at the institute’s Startup Incubation and Innovation Center, along with Brindan Tulachan (also a PhD from IIT Kanpur), Rishi Srivastava, and Ankur Agarwal. The team observed that while lithium batteries are well-suited for mobility, the stationary storage market was underserved — and needed batteries that are safer, more resilient, and built on a supply chain that is easier to access, Kusurkar told TechCrunch.
+
+The startup spent its first six years developing battery technology and has so far secured more than 25 IP families and over 50 IP assets across markets, including the U.S., U.K., and India, as well as China, Australia, and Japan. The battery is based on zinc-bromide chemistry with a proprietary water-based electrolyte, resulting in a low risk of fire.
+
+ZincGel is also capable of handling longer discharges (6-12 hours) multiple times throughout its lifetime and can last twice as long as a typical lithium-ion battery, Kusurkar said. Furthermore, the battery utilizes a carbon-based cathode for both fast charging and discharging.
+
+Zinc in batteries is not a new concept, and some companies have already offered zinc-bromide-based batteries, including the Nasdaq-listedEOS Energy Enterprises. However, Kusurkar noted that Offgrid Energy Labs uses its patented assets that help bring down the cost. The ZincGel batteries can also reduce the need for using graphite, which helps bring down their production cost.
+
+“Ultimately, customers care about the same performance, better price, or better performance, same price,” Srivastava told TechCrunch.
+
+Offgrid Energy Labs’ technology is also designed to allow for tweaking or sub-optimizing the battery based on the application. This means that these zinc batteries can operate independently of environmental conditions and provide energy storage even at temperatures as low as minus 10 degrees Celsius, Srivastava said.
+
+The startup is targeting industries with net-zero goals that want to maximize renewable energy use by integrating battery storage. Its batteries are also being explored for applications such as peak shifting and decentralized, off-grid energy solutions. Shell — which invested in Offgrid during its seed round through its corporate venture arm — and Tata Power are among the early testers. The start is also in talks with global players, including Europe’s Enel Group, to develop batteries tailored to their specific use cases.
+
+So far, Offgrid Energy Labs has built its battery tech manually at a tinkering lab in Uttar Pradesh’s Noida. However, the startup plans to leverage its facility in the U.K. to demonstrate its technology to early customers next year.
+
+The U.K. facility will have a carbon footprint 50% lower than that of a typical lithium battery gigafactory, Srivastava said, adding that the startup has opted for simpler manufacturing processes to reduce both capital and operational expenses.
+
+Asked why the U.K. — and not India — was chosen for its first facility, Srivastava said Europe offers a strong ecosystem and is already a hub for battery manufacturing. The startup already has co-founders Kusurkar and Tulachan based in the U.K. to help with local operations. Still, the startup sees India as one of its key markets once the batteries are ready for commercialization in 2026.
+
+The Series A round was led by Archean Chemicals, a Chennai-based specialty chemicals manufacturer, which now holds a 21% stake in the startup, along with participation from Ankur Capital.
+
+Srivastava told TechCrunch that Archean’s participation is a strategic alignment, as the publicly listed company has considerable expertise in bromine manufacturing and supply chain management.
+
+The startup is valued at around $58 million post-money.
+
+================================================================================
+
+ARTICLE 5
+--------------------------------------------------------------------------------
+URL: https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/
+--------------------------------------------------------------------------------
+Hike, once one of India’s most valuable startups with unicorn status, has become the latest casualty of New Delhi’s recent real-money gaming ban, with the company — led by Kavin Bharti Mittal, son of Airtel founder Sunil Bharti Mittal — now shutting down.
+
+On Saturday, Hike founder Mittal (pictured above) said that the startup’s U.S. business, which launched nine months ago, was “off to a strong start.” But he said scaling it globally would require “a full recap, a reset that is not the best use of capital or time.”
+
+Initiallylaunched as an instant messaging app rivaling WhatsAppin 2012, Hikepivoted to real-money gamingin recent years, with its primary platform, Rush, offering casual games like carrom and ludo for cash prizes, following the shutdown of Hike Messenger in 2021. Rush attracted over 10 million users and generated more than $500 million in gross revenue over its four-year run, Mittal said.
+
+Storied investors, including Tiger Global, SoftBank, and Tencent, backed Hike’s early ambition to take on WhatsApp with a youth-focused messaging app. The startup wasvalued at $1.4 billionin 2016.
+
+“We could raise the capital, but the real question is: Is it worth it? Is this a climb worth pivoting for?” Mittalwrotein a Substack post. “For the first time in 13 years, my answer is no. Not for me, not for my team, and not for our investors.”
+
+Last month, the Indian government shocked the $23-billion real-money gaming industry byintroducingthe Promotion and Regulation of Online Gaming Act, 2025, whichimposed a blanket banon such platforms. The federal government said the decision was aimed at addressing incidents of harm, including cases where individuals reportedly died by suicide after losing money in these games.
+
+In response, top industry players, including Dream Sports and Mobile Premier League (MPL), began shutting down their real-money gaming operations in India. While some started pivoting to new ventures likemicro-dramasandfinancial services, others began exploring international markets to keep parts of their gaming businesses alive.
+
+The crackdown has also triggered a wave of layoffs, with around 2,000 job losses reported across companies likeGames24x7,Head Digital Works,MPL, andZupee. Some of them are planning to cut up to 90% of their workforce as they attempt to adapt or exit the space, sources told TechCrunch.
+
+Some VC firms backing these startups have also questioned their founders on whether there had been any early signs of regulatory action — and if so, why no steps were taken to mitigate the impact, sources familiar with the conversations told TechCrunch.
+
+Earlier this week, the Indian Supreme Courttransferred all petitions challengingthe new law — the rules of which are yet to be notified — from multiple state courts across the country. However, the top court has yet to begin hearing the matter.
+
+“This is both a disappointment and a hard outcome. But I choose to look on the bright side: the learnings are invaluable, and my conviction for what’s next is even stronger,” Mittal wrote.
+
+================================================================================
+
+ARTICLE 6
+--------------------------------------------------------------------------------
+URL: https://techcrunch.com/2025/03/12/garantex-administrator-arrested-in-india-under-extradition-law/
+--------------------------------------------------------------------------------
+Indian police have arrested the co-founder of Garantex, a Russian cryptocurrency exchange sanctioned by the European Union and the U.S. government, under India’s extradition law, TechCrunch has exclusively learned and confirmed with state authorities.
+
+At 4 p.m. local time (3:30 a.m. PT) on Tuesday, the state police of Kerala arrested Lithuanian national Aleksej Besciokov in the coastal municipality of Varkala, a state police official who made the arrest confirmed to TechCrunch.
+
+The police official said the Patiala House Court in New Delhi issued the arrest warrant against Besciokov.
+
+Last week,the U.S. Department of Justice accused Besciokovof personally approving transactions on Garantex linked to North Korea-government hackers and other cybercriminals, criminally charging Besciokov for facilitating money laundering on the crypto exchange.
+
+Indian government officials confirmed Besciokov’s arrest in a statement later on Wednesday. The statement said that Indian police sought an arrest warrant for Besciokov at the request of the U.S. government, and that Besciokov was planning to flee India.
+
+In a brief statement shared with TechCrunch, U.S. Justice Department spokesperson Nicole Oxman confirmed that Besciokov was “arrested in India at the request of the United States,” and declined to comment further.
+
+Shortly after the arrest, Besciokov was produced before the local court in the district, and will be taken to the Patiala Court on Monday to face the charges, the police official told TechCrunch.
+
+KrebsonSecurityfirst reportedBesciokov’s arrest on Tuesday. Garantex did not respond to TechCrunch’s request for comment about Besciokov’s arrest.
+
+Besciokov was indicted along with Russian national Aleksandr Mira Serda, who co-founded Garantex and lives in the United Arab Emirates.
+
+The two administrators, according to U.S. prosecutors, “redesigned Garantex’s operations to evade and violate U.S. sanctions and induce U.S. businesses to unwittingly transact with Garantex in violation of the sanctions.”
+
+Last week, the U.S. Secret Serviceseized Garantex’s websitesafter the Justice Department unsealed itsindictment againstBesciokov andSerda. U.S. authorities also froze more than $26 million in cryptocurrency.
+
+Since then, Garantex has suspended its operations, andinvited customers to “face-to-face meetings”at its office in the Russian capital Moscow after coming up with an unspecified “solution for blocked assets.”
+
+On Tuesday, Garantex sent TechCrunch a press release saying that “despite the unprecedented nature of the situation, Garantex is not abandoning its obligations to its users and intends to fully compensate for the blocked user assets at the expense of its existing assets in Russian Federation territory through a procedure similar to the financial institution rehabilitation procedure.”
+
+“Garantex’s activities will cease after the rehabilitation procedure is completed, with the exception of the compliance department,” the press release states.
+
+Updated with a statement from the Indian government and the U.S. Department of Justice confirming  Besciokov’s arrest in India.
+
+================================================================================
+
+ARTICLE 7
+--------------------------------------------------------------------------------
+URL: https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/
+--------------------------------------------------------------------------------
+A court in India has ordered the blocking of encrypted email provider Proton Mail across the country.
+
+On Tuesday, the Karnataka High Court directed the Indian government to block Proton Mail, a popular email service known for its enhanced security, following a legal complaint filed by New Delhi-based M Moser Design Associates. The local firm alleged that its employees had received emails containing obscene and vulgar content sent via Proton Mail.
+
+In aTuesday hearing streamed on YouTube, Justice M Nagaprasanna ordered the Indian government to “block Proton Mail, bearing in mind the observations made in the course of the order,” under the Information Technology Act 2008.
+
+In itscomplaintfiled in January, the New Delhi-based firm called for the regulation or blocking of Proton Mail in India, as the email service reportedly refused to share details about the sender of the allegedly offensive emails, despite a police complaint.
+
+Additional solicitor general Aravind Kamath, representing the Indian government, had earlier told the high court that the government might have a limited role in addressing the petitioner’s concerns and suggested criminal courts could seek the required information from Swiss authorities since the petitioner had made a complaint.
+
+The block of Proton Mail has yet to take effect, based on TechCrunch’s checks of Proton Mail’s website in India. TechCrunch contacted Proton Mail for comment and will update this story if we hear back.
+
+This is the latest legal tussle facing Proton Mail in India, its second ruling in as many years aimed at blocking the encrypted email service from operating in the country.
+
+Last year, the police department of the southern state of Tamil Nadu hadsought to blockProton Mail after the email service was found to have been used for sending hoax bomb threats to local schools. The Indian government’s IT ministry reportedly notified internet providers to block Proton Mail at the request of law enforcement. However, the Swiss federal authoritiesintervened to preventthe blocking of Proton Mail taking effect.
+
+“Blocking access to Proton Mail simply prevents law-abiding citizens from communicating securely and does not prevent cybercriminals from sending threats with another email service, especially if the perpetrators are located outside of India,” Proton said at the time.
+
+Nonetheless, in October 2024, the Delhi High Courtaskedstate police and the Indian government’s home ministry to investigate the alleged use of Proton Mail across the country. Kamath, the additional solicitor general, had assured the Karnataka High Court that he would examine the Delhi High Court’s observations on Proton Mail’s use in India.
+
+================================================================================
+
