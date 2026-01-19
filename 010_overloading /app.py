@@ -66,7 +66,7 @@ class Calculator(metaclass=OverloadMeta):
     def add(self, x: str, y: str):
         return f"adding string :{x+y}"
 
-    def add(self,a:int, b:int , c:int):
+    def add(self,a:int, b:int , c:int ):
         return f"adding 3 arguments: {a+b+c}"
 
 
